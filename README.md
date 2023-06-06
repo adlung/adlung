@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adlung
 - 👀 I’m interested in AWS/Terraform/
-- 🌱 I’m currently learning IAC
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning IAC/IOT
 - 📫 How to reach me [https://www.linkedin.com/in/cassio-adlung-476214a4/](https://www.linkedin.com/in/cassio-adlung-476214a4/)
 
 <!---
